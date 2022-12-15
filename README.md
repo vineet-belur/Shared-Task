@@ -1,4 +1,5 @@
 # Touché23-Human-Value-Detection
+Task 4: https://touche.webis.de/semeval23/touche23-web/index.html
 
 `sharedtask.ipynb` - code for main BERT model, higher performing model
 
